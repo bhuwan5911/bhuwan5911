@@ -10,7 +10,7 @@ I'm a passionate Software Engineering student 🚀 constantly building and learn
 ---
 
 ### 🔧 Tech Stack
-- 💻 Languages: `C++`, `JavaScript`, `HTML`, `CSS`,
+- 💻 Languages: `Java`, `JavaScript`, `HTML`, `CSS`,
 - 🛠️ Tools & Frameworks: `React`, `Node.js`, `MongoDB`, `Express`, `TailwindCSS`, `PostgreSQL`, `ASP.NET Core`
 - ☁️ Currently exploring: `AI-powered Full Stack`
 
